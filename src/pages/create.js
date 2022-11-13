@@ -4,7 +4,7 @@ import { StickyProvider } from 'contexts/app/app.provider';
 import theme from 'theme';
 import SEO from 'components/seo';
 import Layout from 'components/layout';
-import Create from 'components/create/create';
+import Create from 'components/create/Create';
 
 export default function CreatePage() {
   return (
